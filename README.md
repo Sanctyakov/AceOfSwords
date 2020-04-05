@@ -47,4 +47,5 @@ Unless deprived of it, Fighters always have one of three Guards, and can switch 
 - The Low Guard allows and defends against Low Attacks (from below or to the legs).
 
 
+
 All assets are Royalty Free.
